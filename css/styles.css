@@ -48,3 +48,11 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.fontcolour {
+	color: #233F5E;	
+}
+
+h2 {
+	color: #233F5E;
+}
